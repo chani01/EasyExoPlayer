@@ -1,0 +1,3 @@
+rootProject.name='SamplePlayer'
+include ':app'
+include ':easyexoplayer'
