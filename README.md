@@ -20,7 +20,7 @@ dependencies {
 ## How to use
 ### Player init
 ```
-EasyExoPlayer.initPlayer(this, getString(your_app_name)
+EasyExoPlayer.initPlayer(this, your_app_name)
 ```
 
 ### SinglePlay
