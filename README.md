@@ -1,7 +1,7 @@
 # EasyExoPlayer
 
 ## SetUp
-![Build Status](https://img.shields.io/badge/download-1.0.1-green.svg)
+![Build Status](https://img.shields.io/badge/download-1.0.2-green.svg)
 
 ```
 allprojects {
@@ -13,7 +13,7 @@ allprojects {
 
 ```
 dependencies {
-      implementation 'com.github.chani01:EasyExoPlayer:1.0.1'
+      implementation 'com.github.chani01:EasyExoPlayer:1.0.2'
 }
 ```
 
