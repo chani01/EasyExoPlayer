@@ -10,3 +10,9 @@ allprojects {
 	}
 }
 ```
+
+```
+dependencies {
+      implementation 'com.github.chani01:EasyExoPlayer:1.0.1'
+}
+```
