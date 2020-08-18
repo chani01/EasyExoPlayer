@@ -104,7 +104,7 @@ object EasyExoPlayer {
     }
 
     fun setAudioFocus(status : Boolean) {
-        player!!.setAudioAttributes(audioAttributes, true)
+        player!!.setAudioAttributes(audioAttributes, status)
     }
 
     fun onListener(action: (Int) -> Unit) {
