@@ -1,4 +1,4 @@
-# EasyExoPlayer
+# EasyAudioExoPlayer
 
 ## SetUp
 ![Build Status](https://img.shields.io/badge/download-1.0.2-green.svg)
@@ -23,13 +23,13 @@ dependencies {
 EasyExoPlayer.initPlayer(this, your_app_name)
 ```
 
-### SinglePlay
+### SingleAudioPlay
 ```
 EasyExoPlayer.setDataSource(file_url)
 EasyExoPlayer.play()
 ```
 
-### PlayList
+### AudioPlayList
 ```
  val data = listOf(file_url1, file_url2, file_url3, file_url4)
  EasyExoPlayer.setPlayListSource(data)
